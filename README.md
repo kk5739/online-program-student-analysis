@@ -1,3 +1,9 @@
+# 🎓 Online Program Students Analysis (2023–2025)
+
+> A data-driven analysis of NYU's online graduate participation in university commencement ceremonies. This work supports planning and logistics for candidate seating, guest tickets, and gate assignments.
+
+---
+
 ## 📌 Project Highlights
 
 - Visualizes trends across three academic years
@@ -17,21 +23,25 @@ This project evaluates trends among eligible online graduates and their particip
 
 ---
 
-## 🗂️ Directory Structure
+## 📄 Data Access Policy
+
+Due to institutional privacy policies, the full raw and report-level datasets are not included in this public repository.
+
+For data structure reference, anonymized schema examples are available upon request or in local development.
+
+---
+
+## 📂️ Directory Structure
 
 ```
 online-program-student-analysis/
-├── final-report-data/
-│   ├── CM23/
-│   ├── CM24/
-│   └── CM25/
-├── raw-data/
-│   ├── CM23/
-│   ├── CM24/
-│   ├── CM25/
-│   └── list-of-online-graduate-programs.xlsx
 ├── online-project.ipynb
 ├── online-project-final-report.pdf
+├── README.md
+├── requirements.txt
+# The following folders are excluded due to confidentiality
+# ├── final-report-data/
+# └── raw-data/
 ```
 
 ---
