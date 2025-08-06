@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook temp files
+.ipynb_checkpoints/
+
+# Python virtual environments (optional)
+venv/
+
+# Exclude confidential data
+raw-data/
+final-report-data/
+
