@@ -1,13 +1,3 @@
----
-
-## title: "Online Program Students Analysis"
-
-# 🎓 Online Program Students Analysis (2023–2025)
-
-> A data-driven analysis of NYU's online graduate participation in university commencement ceremonies. This work supports planning and logistics for candidate seating, guest tickets, and gate assignments.
-
----
-
 ## 📌 Project Highlights
 
 - Visualizes trends across three academic years
